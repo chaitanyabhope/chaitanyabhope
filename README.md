@@ -71,9 +71,9 @@
 <h3 align="center">📂 Projects Focused on Data</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/FaW8aBl.gif" width="220" alt="Analytics" />
-  <img src="https://i.imgur.com/abR7aFp.gif" width="220" alt="AI" />
-  <img src="https://i.imgur.com/epQnB0l.gif" width="220" alt="Data Science" />
+  <img src="https://i.ibb.co/0QXM8ZX/ai-1.gif" width="220" alt="AI Working" />
+  <img src="https://i.ibb.co/znPgzCY/data-science.gif" width="220" alt="Data Science Process" />
+  <img src="https://i.ibb.co/JRs1n9h/ml.gif" width="220" alt="Machine Learning" />
 </p>
 
 ---
