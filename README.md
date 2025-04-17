@@ -3,11 +3,11 @@
 <h1 align="center">Hi there, I'm Chaitanya 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
+  <img src="https://media.giphy.com/media/fwbzI2Vaf0p0k/giphy.gif" width="300" alt="Digital Analytics" />
 </p>
 
 <p align="center">
-  🚀 Final Year CSE Student | 👨‍💻 Developer | 🌱 Lifelong Learner | 🧠 AI & Web Enthusiast
+  🚀 Final Year CSE Student | 👨‍💻 Developer | 🌱 Lifelong Learner | 🧠 AI-ML & Data Enthusiast
 </p>
 
 ---
