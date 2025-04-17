@@ -43,17 +43,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhope&show_icons=true&theme=radical" width="450" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhope&layout=compact&theme=radical" width="350"/>
-</p>
-
 
 ### 🌱 Currently Learning
 
@@ -79,14 +68,33 @@
 
 ---
 
-### 👨‍💻 Passionate About:
-- 📊 **Data Analytics** – Turning raw data into insights  
-- 🧠 **Machine Learning** – Teaching machines to learn patterns  
-- 🤖 **Artificial Intelligence** – Building smart applications  
-- 📈 **Statistical Modeling** – Predictive power with precision  
-- 🛠️ **Projects** – Real-world problem solving with Python, Pandas, Scikit-learn, and more!
+<h3 align="center">📂 Projects Focused on Data</h3>
+
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/analytics.gif" width="200" alt="Analytics" />
+  <img src="https://media.tenor.com/Pp1oKfkO7S0AAAAC/ai-artificial-intelligence.gif" width="200" alt="AI" />
+  <img src="https://media.tenor.com/Xm8wBRZ9-lYAAAAC/data-data-science.gif" width="200" alt="Data Science" />
+</p>
 
 ---
+
+### 🧠 What Drives Me
+- 📊 **Data Analytics** – Exploring data to extract stories
+- 🤖 **Machine Learning** – Building models that learn & adapt
+- 🧬 **AI Engineering** – Turning algorithms into real-world apps
+- 📈 **Statistical Thinking** – Predicting and forecasting with precision
+- 🛠️ **End-to-End Projects** – From data wrangling to model deployment
+
+---
+
+### 🚀 Project Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 
 ### 📫 Let's Connect
