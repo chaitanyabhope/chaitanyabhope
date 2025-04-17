@@ -71,7 +71,7 @@
 <h3 align="center">📂 Projects Focused on Data</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chaitanya-Bhope/Assets/main/ai.gif" width="220" alt="AI" />
+  <img src="[https://raw.githubusercontent.com/Chaitanya-Bhope/Assets/main/ai.gif](https://www.pexels.com/photo/abstract-art-black-and-white-close-up-computer-318319)" width="220" alt="AI" />
   <img src="https://raw.githubusercontent.com/Chaitanya-Bhope/Assets/main/data-science.gif" width="220" alt="Data Science" />
   <img src="https://raw.githubusercontent.com/Chaitanya-Bhope/Assets/main/ml.gif" width="220" alt="Machine Learning" />
 </p>
@@ -94,7 +94,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -106,8 +105,8 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chaitanyabhope/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:chaitanyabhope03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chaitanyabhope/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
