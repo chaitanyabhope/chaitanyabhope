@@ -71,7 +71,7 @@
 <h3 align="center">📂 Projects Focused on Data</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3mM5jlmH2y4g/giphy.gif" width="220" alt="AI" />
+  <img src="https://media.giphy.com/media/ksvWYo4AmiY8HZDMLJ/giphy.gif" width="220" alt="AI" />
   <img src="https://media.giphy.com/media/2A6R1XtX2v5T5ZPjl0/giphy.gif" width="220" alt="Data Science" />
   <img src="https://raw.githubusercontent.com/Chaitanya-Bhope/Assets/main/ml.gif" width="220" alt="Machine Learning" />
 </p>
