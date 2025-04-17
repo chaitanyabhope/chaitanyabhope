@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding animation" />
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="220" alt="Futuristic Data Dashboard" />
+  <img src="https://media.giphy.com/media/3o7TKrjzDudPA1fYFG/giphy.gif" width="220" alt="Streaming data in space" />
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="220" alt="Mobile App Vibe" />
 </p>
 
