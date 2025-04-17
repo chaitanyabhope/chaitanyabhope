@@ -71,7 +71,7 @@
 <h3 align="center">📂 Projects Focused on Data</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPOgG4GqVvxH6Lu/giphy.gif" width="220" alt="AI face scan" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding animation" />
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="AI brain with data streams" />
   <img src="https://media.giphy.com/media/fwbzI2Vaf0p0k/giphy.gif" width="220" alt="Digital Analytics" />
 </p>
