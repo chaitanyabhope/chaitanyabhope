@@ -63,6 +63,32 @@
 
 ---
 
+<h3 align="center">💡 Data Science | Analytics | AI/ML Enthusiast</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhope&show_icons=true&theme=radical&title_color=ff6ec7&icon_color=79ff97&text_color=ffffff" width="450" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyabhope&theme=radical&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ffffff" width="450" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhope&layout=compact&theme=radical&title_color=ff6ec7&text_color=ffffff" width="350" alt="Top Languages"/>
+</p>
+
+---
+
+### 👨‍💻 Passionate About:
+- 📊 **Data Analytics** – Turning raw data into insights  
+- 🧠 **Machine Learning** – Teaching machines to learn patterns  
+- 🤖 **Artificial Intelligence** – Building smart applications  
+- 📈 **Statistical Modeling** – Predictive power with precision  
+- 🛠️ **Projects** – Real-world problem solving with Python, Pandas, Scikit-learn, and more!
+
+---
+
+
 ### 📫 Let's Connect
 
 <p align="center">
