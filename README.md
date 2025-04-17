@@ -45,16 +45,18 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhope&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyabhope&theme=radical" height="180"/>
-</p>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhope&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhope&show_icons=true&theme=radical" width="450" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyabhope&theme=radical" width="450"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhope&layout=compact&theme=radical" width="350"/>
 </p>
 
----
 
 ### 🌱 Currently Learning
 
