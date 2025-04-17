@@ -73,7 +73,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding animation" />
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="220" alt="Matrix code" />
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="220" alt="Rocket Launch" />
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="220" alt="Mobile App Vibe" />
 </p>
 
 ---
