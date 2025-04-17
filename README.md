@@ -1,38 +1,88 @@
-<h2 align="left">Hi 👋! My name is Bhope Chaitanya and I'm a CSE Student, from M S Bidve Engineering College, Latur.</h2>
+<!-- GitHub Profile README -->
 
-###
+<h1 align="center">Hi there, I'm Chaitanya 👋</h1>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
+</p>
 
-###
+<p align="center">
+  🚀 Final Year CSE Student | 👨‍💻 Developer | 🌱 Lifelong Learner | 🧠 AI & Web Enthusiast
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-</div>
+---
 
-###
+### 🔍 About Me
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+- 🎓 Final year Computer Science Engineering student at M S Bidve Engineering College, Latur  
+- 🧑‍💻 Passionate  about working on data and make visualizations and take out the best insights to help businesses 
+- 🏆 Winner of **SHASTRARTH 2K24** for the project *Smart Face Recognition System*  
+- 💼 Actively seeking full-time opportunities and internships to kickstart my professional journey  
+- 🌐 Tech Stack: `Python` `Flask` `React` `Firebase` `Node.js` `FastAPI` `HTML/CSS/JS`  
 
-###
+---
+
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,html,css,js,nodejs,firebase,mysql,git,github,vscode" />
+</p>
+
+---
+
+### ✨ Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🌐 **Uber Trip Analysis** | Uber data analysis and Visualization | Power BI, Power Query, Dynamic measures |
+| 🧠 **Smart Face Recognition System** | Face recognition for attendance & exam invigilation | Python, OpenCV, Firebase |
+| 📊 **FNP Sales Analysis** | Sales dashboard with insights | Excel, Power Query, pivot table |
+| 📁 **Sheti-Care** | System to detect plant leaf decease | ML, HTML, CSS, Python |
+
+➡️ More at: [**My Repositories**](https://github.com/chaitanyabhope)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhope&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyabhope&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhope&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Data Science Concepts 🤖
+- Freelance Data Analytics 📊
+- Building knowledge in Data field 🛠️
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaitanyabhope/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:chaitanyabhope03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+### ☀️ Fun Fact
+
+> *I'm a calm, kind, and brave soul who believes technology should serve people first.*  
+> I love blending tech with creativity, and I dream of building solutions that make everyday life better. ✨
+
+---
+
+_Thanks for visiting my profile! Have a great day! 😊_
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F794EF&size=22&center=true&vCenter=true&width=500&lines=Keep+Building+💪;Stay+Curious+🧠;Code+With+Heart+❤️" />
+</p>
