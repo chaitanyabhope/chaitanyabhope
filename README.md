@@ -73,7 +73,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ksvWYo4AmiY8HZDMLJ/giphy.gif" width="220" alt="AI" />
   <img src="https://media.giphy.com/media/2A6R1XtX2v5T5ZPjl0/giphy.gif" width="220" alt="Data Science" />
-  <img src="https://raw.githubusercontent.com/Chaitanya-Bhope/Assets/main/ml.gif" width="220" alt="Machine Learning" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QJ7ozg0/giphy.gif" />
 </p>
 
 ---
