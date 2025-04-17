@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Chaitanya 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2Vaf0p0k/giphy.gif" width="300" alt="Digital Analytics" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="AI brain with data streams" />
 </p>
 
 <p align="center">
